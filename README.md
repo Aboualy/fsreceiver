@@ -1,3 +1,10 @@
+# Screenshots of my ReactJS app "fsreceiver"
+
+
+
+![Screenshot 2019-07-16 at 2 32 22](https://user-images.githubusercontent.com/32483438/61255622-fc724100-a771-11e9-9788-a88b2c3f4763.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
